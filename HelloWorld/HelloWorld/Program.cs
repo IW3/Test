@@ -8,10 +8,11 @@ namespace HelloWorld
 {
     class Program
     {
+        //Add comment make unbuildable...
+        haaaah
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Enzo is great!");
-            Console.WriteLine("Paul is great!");
             Console.WriteLine("Hello World");
         }
     }
