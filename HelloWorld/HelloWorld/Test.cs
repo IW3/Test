@@ -8,8 +8,5 @@ namespace HelloWorld
 {
     class Test
     {
-        // empty first comment
-
-        // empty second comment
     }
 }
